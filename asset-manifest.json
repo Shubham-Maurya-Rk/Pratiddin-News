@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tazza-khabar-/static/css/main.64487d3c.css",
+    "main.js": "/Tazza-khabar-/static/js/main.97d407dc.js",
+    "static/js/787.4c026eef.chunk.js": "/Tazza-khabar-/static/js/787.4c026eef.chunk.js",
+    "static/media/Spinner-2.gif": "/Tazza-khabar-/static/media/Spinner-2.0c2993480d0ca8008754.gif",
+    "index.html": "/Tazza-khabar-/index.html",
+    "main.64487d3c.css.map": "/Tazza-khabar-/static/css/main.64487d3c.css.map",
+    "main.97d407dc.js.map": "/Tazza-khabar-/static/js/main.97d407dc.js.map",
+    "787.4c026eef.chunk.js.map": "/Tazza-khabar-/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64487d3c.css",
+    "static/js/main.97d407dc.js"
+  ]
+}
